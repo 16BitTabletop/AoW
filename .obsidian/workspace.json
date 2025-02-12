@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0a19033c2e94b2cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c2b8b38f150dd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee11be4fb1bccaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rise of the Runelords/Chapter 01/Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eaa5e79d2d3a738",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0999bc088a2078a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67dcb4b9552021d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fa61744086a98bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f82186a0a1b962c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bbb49c38ad0cf6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "874af108cc7701d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02161c276fa848f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rise of the Runelords/Chapter 01/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overview"
+            }
+          },
+          {
+            "id": "fa91af3892df6141",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rise of the Runelords/Chapter 01/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overview"
+            }
+          },
+          {
+            "id": "0090e31a8869b059",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4324a15e3e7576d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homebrew Megadungeon/0.0 Overview.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0.0 Overview"
+            }
+          },
+          {
+            "id": "7d7775f2d1846575",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6a4d297ef6ad43a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5e6eb8a048982f",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "67dcb4b9552021d7",
+  "lastOpenFiles": [
+    "README.md",
+    "00 Attachments/WhisperingCairnEntrance.png",
+    "00 Attachments/TrueTombPlayerMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.22 - Toilet.md",
+    "00 Attachments/TrueTombDMMap.png",
+    "00 Attachments/LairOfTheLaborersDMMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.15 - Laborer's Foyer.md",
+    "00 Attachments/LairOfTheLaborersPlayerMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.9 - Architect's Foyer.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.8 - Passage of the Face.md",
+    "00 Attachments/LairOfTheArchitectDMMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.7 - False Tomb.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.6 - Gallery of Seven Lanterns.md",
+    "00 Attachments/LairOfTheArchitectPlayerMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.10 - Passage of Honor.md",
+    "00 Attachments/WhisperingCairnSarcophagus.png",
+    "00 Attachments/WhisperingCairnPlayerMap.png",
+    "00 Attachments/WhisperingCairnDMMap.png",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 2 - The True Tomb/2.0 - The True Tomb.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.21 - Other Locker Room with Benches.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/0.2 Backdrop Diamond Lake.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/0.0 Overview.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.20 - Locker Room with Benches.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.19 - Submerged Showers.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.16 - Food Room; The Hive.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.14 - Toilet.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.13 - Workshop.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.12 - Living Quarters.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.11 - Gallery.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.18 - Tool Alcoves.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.17 - Sleeping Quarters.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.4 - Hall of Honor.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.3 - Collapsed Passage.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.2 - Transport Alcove.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.1 - Coward's Rest.md",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1.0 - A Face In Darkness.md",
+    "Untitled",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/2 - Lair of the Architect",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness/1 - A Face in the Darkness",
+    "Attachments",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 5 - The Old Observatory",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 4 - The Feral Dog",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 3 - Tomb Stories",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 2 - The True Tomb",
+    "Age of Worms/Chapter 1 - The Whispering Cairn/Part 1 - A Face In Darkness",
+    "Age of Worms/Chapter 12"
+  ]
+}
